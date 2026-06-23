@@ -1,0 +1,62 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" fill="#09101D"/>
+  <rect x="54" y="66" width="1092" height="588" rx="10" fill="#111A2A" stroke="#2D3B55" stroke-width="2"/>
+  <text x="88" y="116" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#FFFFFF">Data Center Internal Execution Layer</text>
+  <text x="88" y="150" font-family="Arial, sans-serif" font-size="18" fill="#AEB7D8">Sophisticated assembly requires local installation, integration and service support.</text>
+  <g transform="translate(84 205)">
+    <rect width="160" height="360" rx="8" fill="#1D2940" stroke="#607099" stroke-width="2"/>
+    <rect x="20" y="28" width="120" height="42" rx="4" fill="#2C3A5A"/>
+    <rect x="20" y="88" width="120" height="42" rx="4" fill="#2C3A5A"/>
+    <rect x="20" y="148" width="120" height="42" rx="4" fill="#2C3A5A"/>
+    <rect x="20" y="208" width="120" height="42" rx="4" fill="#2C3A5A"/>
+    <rect x="20" y="268" width="120" height="42" rx="4" fill="#2C3A5A"/>
+    <circle cx="126" cy="49" r="5" fill="#5E6EE6"/>
+    <circle cx="126" cy="109" r="5" fill="#5E6EE6"/>
+    <circle cx="126" cy="169" r="5" fill="#5E6EE6"/>
+    <circle cx="126" cy="229" r="5" fill="#5E6EE6"/>
+    <circle cx="126" cy="289" r="5" fill="#5E6EE6"/>
+  </g>
+  <g transform="translate(285 205)">
+    <rect width="160" height="360" rx="8" fill="#1D2940" stroke="#607099" stroke-width="2"/>
+    <path d="M28 56H132M28 102H132M28 148H132M28 194H132M28 240H132M28 286H132" stroke="#8C94CC" stroke-width="4"/>
+    <path d="M50 56C50 112 108 104 108 148C108 202 52 188 52 240C52 276 102 274 102 310" stroke="#5E6EE6" stroke-width="5" stroke-linecap="round"/>
+    <path d="M96 56C96 98 58 106 58 148C58 194 116 198 116 240C116 278 74 278 74 310" stroke="#48C2A4" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(486 205)">
+    <rect width="160" height="360" rx="8" fill="#1D2940" stroke="#607099" stroke-width="2"/>
+    <rect x="26" y="32" width="108" height="296" rx="4" fill="#0B1220" stroke="#8C94CC"/>
+    <path d="M52 72H108M52 122H108M52 172H108M52 222H108M52 272H108" stroke="#48C2A4" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="80" cy="60" r="8" fill="#5E6EE6"/>
+    <circle cx="80" cy="315" r="8" fill="#5E6EE6"/>
+  </g>
+  <g transform="translate(688 205)">
+    <rect width="160" height="360" rx="8" fill="#1D2940" stroke="#607099" stroke-width="2"/>
+    <path d="M32 64H128V122H32V64Z" fill="#2C3A5A"/>
+    <path d="M32 154H128V212H32V154Z" fill="#2C3A5A"/>
+    <path d="M32 244H128V302H32V244Z" fill="#2C3A5A"/>
+    <path d="M50 122V154M110 122V154M50 212V244M110 212V244" stroke="#8C94CC" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="80" cy="93" r="10" fill="#48C2A4"/>
+    <circle cx="80" cy="183" r="10" fill="#48C2A4"/>
+    <circle cx="80" cy="273" r="10" fill="#48C2A4"/>
+  </g>
+  <g transform="translate(889 205)">
+    <rect width="210" height="360" rx="8" fill="#1D2940" stroke="#607099" stroke-width="2"/>
+    <text x="105" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#FFFFFF">Local Support</text>
+    <rect x="30" y="88" width="150" height="42" rx="6" fill="#191B69"/>
+    <rect x="30" y="148" width="150" height="42" rx="6" fill="#191B69"/>
+    <rect x="30" y="208" width="150" height="42" rx="6" fill="#191B69"/>
+    <rect x="30" y="268" width="150" height="42" rx="6" fill="#191B69"/>
+    <text x="105" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">Site installation</text>
+    <text x="105" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">System integration</text>
+    <text x="105" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">Testing & handover</text>
+    <text x="105" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#FFFFFF">Service continuity</text>
+  </g>
+  <path d="M244 385H285M445 385H486M646 385H688M848 385H889" stroke="#8C94CC" stroke-width="4" stroke-dasharray="8 8"/>
+  <g font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#DDE2FF">
+    <text x="164" y="610" text-anchor="middle">Compute</text>
+    <text x="365" y="610" text-anchor="middle">Network</text>
+    <text x="566" y="610" text-anchor="middle">Cooling</text>
+    <text x="768" y="610" text-anchor="middle">Power</text>
+    <text x="994" y="610" text-anchor="middle">Field Execution</text>
+  </g>
+</svg>

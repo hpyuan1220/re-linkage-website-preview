@@ -1,0 +1,63 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="steel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F7F8FB"/>
+      <stop offset="1" stop-color="#E7EBF4"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#191B69"/>
+      <stop offset="1" stop-color="#8C94CC"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="720" fill="url(#steel)"/>
+  <rect x="54" y="54" width="1092" height="612" rx="18" fill="#FFFFFF" stroke="#D9DEEA" stroke-width="2"/>
+
+  <text x="92" y="118" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#191B69">Polish automotive resources already operate globally</text>
+  <text x="92" y="160" font-family="Arial, sans-serif" font-size="23" fill="#555D72">Public industrial-group evidence, shown without using any customer logo or partner brand asset.</text>
+
+  <g transform="translate(92 214)">
+    <rect width="315" height="338" rx="16" fill="#191B69"/>
+    <text x="34" y="54" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF">Boryszew public data</text>
+    <text x="34" y="112" font-family="Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF">29</text>
+    <text x="118" y="108" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">production</text>
+    <text x="118" y="138" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">facilities</text>
+
+    <text x="34" y="206" font-family="Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF">4</text>
+    <text x="100" y="202" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">continents</text>
+    <text x="34" y="278" font-family="Arial, sans-serif" font-size="60" font-weight="700" fill="#FFFFFF">8</text>
+    <text x="100" y="274" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#FFFFFF">countries</text>
+    <text x="34" y="314" font-family="Arial, sans-serif" font-size="18" fill="#DDE2FF">Automotive component manufacturing scale</text>
+  </g>
+
+  <g transform="translate(452 214)">
+    <rect width="616" height="338" rx="16" fill="#F7F8FB" stroke="#D9DEEA" stroke-width="2"/>
+
+    <g transform="translate(54 58)">
+      <rect x="0" y="146" width="508" height="42" rx="8" fill="#D9DEEA"/>
+      <rect x="20" y="68" width="146" height="82" rx="12" fill="#FFFFFF" stroke="#C6CDE3" stroke-width="3"/>
+      <rect x="186" y="40" width="146" height="110" rx="12" fill="#FFFFFF" stroke="#C6CDE3" stroke-width="3"/>
+      <rect x="352" y="84" width="136" height="66" rx="12" fill="#FFFFFF" stroke="#C6CDE3" stroke-width="3"/>
+
+      <path d="M39 104H147M206 78H312M371 115H471" stroke="#191B69" stroke-width="7" stroke-linecap="round"/>
+      <path d="M62 126H124M226 104H292M394 137H450" stroke="#8C94CC" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="82" cy="188" r="17" fill="#191B69"/>
+      <circle cx="256" cy="188" r="17" fill="#191B69"/>
+      <circle cx="424" cy="188" r="17" fill="#191B69"/>
+
+      <path d="M86 252C177 220 287 219 398 251" stroke="url(#line)" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="86" cy="252" r="10" fill="#191B69"/>
+      <circle cx="244" cy="226" r="10" fill="#191B69"/>
+      <circle cx="398" cy="251" r="10" fill="#191B69"/>
+      <text x="86" y="286" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#333258">Poland</text>
+      <text x="244" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#333258">Europe</text>
+      <text x="398" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#333258">Americas / Asia</text>
+    </g>
+  </g>
+
+  <g transform="translate(92 586)">
+    <rect width="976" height="48" rx="10" fill="#EEF1FA" stroke="#D9DEEA"/>
+    <text x="24" y="31" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#191B69">Business implication:</text>
+    <text x="240" y="31" font-family="Arial, sans-serif" font-size="20" fill="#555D72">Taiwan suppliers can evaluate Polish resources as global automotive-grade execution partners.</text>
+  </g>
+</svg>
