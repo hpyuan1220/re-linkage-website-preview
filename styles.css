@@ -430,8 +430,8 @@ h3 {
 
 .visual-panel.network {
   background-image:
-    linear-gradient(180deg, rgba(25, 27, 105, 0.10), rgba(14, 14, 14, 0.30)),
-    url("assets/images/bridge-global-supply-map.jpg");
+    linear-gradient(180deg, rgba(25, 27, 105, 0.14), rgba(14, 14, 14, 0.42)),
+    url("assets/images/wix-about-business-meeting.jpg");
 }
 
 .service-list {
@@ -536,6 +536,54 @@ h3 {
 .partner-points p {
   margin-bottom: 0;
   color: var(--muted);
+}
+
+.team-section {
+  background: var(--white);
+}
+
+.team-grid {
+  display: grid;
+  gap: 20px;
+}
+
+.team-card {
+  display: grid;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: clamp(24px, 4vw, 44px);
+  align-items: stretch;
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--white);
+  box-shadow: 0 12px 30px rgba(16, 24, 40, 0.06);
+}
+
+.team-card img {
+  width: 100%;
+  height: 100%;
+  min-height: 300px;
+  object-fit: cover;
+  object-position: center top;
+  border-radius: 6px;
+  background: var(--paper);
+}
+
+.team-card > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: clamp(8px, 2vw, 22px) 0;
+}
+
+.team-card h3 {
+  color: var(--navy);
+  font-size: clamp(28px, 4vw, 42px);
+}
+
+.team-card p:not(.resource-type) {
+  color: var(--muted);
+  font-size: 17px;
 }
 
 .case-layout {
@@ -837,6 +885,16 @@ h3 {
 
   .contact-form {
     grid-template-columns: 1fr;
+  }
+
+  .team-card {
+    grid-template-columns: 1fr;
+  }
+
+  .team-card img {
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 4 / 3;
   }
 
   .join-form {

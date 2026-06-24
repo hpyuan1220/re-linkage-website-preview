@@ -51,3 +51,12 @@ https://www.pexels.com/license/
   - License: CC0.
   - Author/source: Derrick Coetzee.
   - Purpose: real server rack, compute hardware and cabling visual for the Insights section, showing data center hardware, networking, software infrastructure and integration complexity.
+- `wix-about-business-meeting.jpg`
+  - Source: current RE-Linkage Wix website, About Us page background image.
+  - Purpose: reused brand-owned background visual for the new About / Leadership section.
+- `team-irene-yuan.png`
+  - Source: current RE-Linkage Wix website, About Us page team image.
+  - Purpose: Irene Yuan leadership profile image.
+- `team-jen-hui-hsu.png`
+  - Source: current RE-Linkage Wix website, About Us page team image.
+  - Purpose: Jen Hui Hsu leadership profile image.
